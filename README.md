@@ -20,7 +20,7 @@ The model was trained using a dataset comprising 2000 training images and 700 va
 The trained model achieved an impressive training accuracy of 95% and a validation accuracy of 82%.
 
 ## How to Use
-'''bash
+```bash
 git clone https://github.com/Kryp6405/dog-breed-classification.git
-'''
+```
 
